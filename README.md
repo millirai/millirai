@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Milli Rai
-
 🎓 I'm a student passionate about technology and design  
 💻 Currently learning: Photoshop  
 🎨 Interested in: Graphic Design, UI/UX, Logo designing
