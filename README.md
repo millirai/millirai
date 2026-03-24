@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Milli Rai
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 ### 👩‍🎓 About Me
 - 🎓 Student passionate about technology and design  
